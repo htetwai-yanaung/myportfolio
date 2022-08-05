@@ -427,6 +427,10 @@ header .icons a:hover i{
         width: 100%;
         left: -450px;
     }
+    
+    header.active{
+        left: 0;
+    }
 
     .portfolio .box-container .box .content{
         bottom: -25rem;
