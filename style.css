@@ -404,9 +404,7 @@ header .icons a:hover i{
     header{
         left: -350px;
     }
-    header.active{
-        left: 0;
-    }
+    
     .about .information .data,
     .about .information .interests{
         flex: 1 1 280px;
